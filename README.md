@@ -73,4 +73,4 @@ Location: Visakhpatnam · Experience: Fresher · Learning: Python, MySQL, DSA
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
-[Say hello](https://www.linkedin.com/in/musidipilli-harish/) · [Made with ReadmeForge](https://lebedevnet.github.io/ReadmeForge/)
+[Say hello](https://www.linkedin.com/in/musidipilli-harish/) · 
