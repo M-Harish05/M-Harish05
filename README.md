@@ -59,7 +59,6 @@ Location: Visakhpatnam · Experience: Fresher · Learning: Python, MySQL, DSA
 ### Contribution Snake
 
 <div align="center">
-![snake gif](https://github.com/M-Harish05/M-Harish05/blob/output/github-snake-dark.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Harish05/M-Harish05/output/github-contribution-grid-snake-dark.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/M-Harish05/M-Harish05/output/github-contribution-grid-snake.svg">
@@ -73,4 +72,5 @@ Location: Visakhpatnam · Experience: Fresher · Learning: Python, MySQL, DSA
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
-[Say hello](https://www.linkedin.com/in/musidipilli-harish/) · [Made with ReadmeForge](https://lebedevnet.github.io/ReadmeForge/)
+[Say hello](https://www.linkedin.com/in/musidipilli-harish/)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
