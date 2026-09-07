@@ -61,7 +61,7 @@ Location: Visakhpatnam · Experience: Fresher · Learning: Python, MySQL, DSA
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Harish05/M-Harish05/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Harish05/M-Harish05/output/github-snake-dark.svg.svg">
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/M-Harish05/M-Harish05/output/github-snake.svg">
 </picture>
 
